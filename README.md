@@ -7,6 +7,7 @@
 </head>
 <body>
   <h1>Ecommerce Catalog with MongoDB</h1>
+  <img src=""D:\Codes\Practice\Ecommers-Catalog\project logo.png"" alt="Project Logo" width="200">
 
   <h2>Description</h2>
   <p>This project provides a Node.js backend API for managing products in an inventory system. It includes functionality for adding new products with images, retrieving a list of all products, and deleting existing products.</p>
@@ -39,7 +40,7 @@
 
   <h3>Installation:</h3>
   <ol>
-    <li>Clone the repository: <code>git clone &lt;repository_url&gt;</code></li>
+    <li>Clone the repository: <code>git clone &lt;https://github.com/SakshiiRK/Ecommers-Catalog.git&gt;</code></li>
     <li>Install dependencies (assuming a `backend` directory exists):
       <ul>
         <li>Navigate to the backend directory: <code>cd backend</code></li>
@@ -51,8 +52,7 @@
 
   <h3>Running the Project:</h3>
   <ol>
-   
-    <li>Start the development server: <code>node index.js</code></li>
+  <li>Start the development server: <code>node index.js</code></li>
   </ol>
 
   <h2>API Endpoints</h2>
